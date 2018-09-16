@@ -2,7 +2,7 @@
   "name": "dist",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://username.github.io/movies",
+  "homepage": "http://bryang09.github.io/movies",
   "dependencies": {
     "axios": "^0.18.0",
     "react": "^16.5.1",
