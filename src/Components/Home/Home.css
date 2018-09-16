@@ -98,6 +98,9 @@
   .result {
     width: 50%;
   }
+  .Navigation input {
+    width: 40vw;
+  }
 }
 @media only screen and (max-width: 600px) {
   .result {
